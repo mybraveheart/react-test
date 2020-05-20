@@ -17,12 +17,14 @@ export default () => {
         <div
           style={{
             overflow: 'scroll',
-            width: '30px',
-            height: '15px',
+            width: '100%',
+            height: '30px',
             border: '1px solid',
           }}
         >
           {i++}
+          <br />
+          <br />
           <br />
           <br />
         </div>
